@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://globalgamejam.org/2021/games/located-3">
-		<img width="725" height="191" src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2021/01/335948/alocated_splash.png?itok=QNrHJNfc&timestamp=1612095584">
+		<img width="354" height="251" src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2021/01/335948/alocated_splash.png?itok=QNrHJNfc&timestamp=1612095584">
 	</a>
 	</p>
 
